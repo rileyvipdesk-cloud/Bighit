@@ -66,7 +66,7 @@ export default {
 
           <div style="background:#faf5ff; border-left:5px solid #6B35A8; padding:25px; margin:25px 0; border-radius:4px;">
             <p style="color:#6B35A8; font-size:13px; font-weight:600; margin:0 0 12px;">VERIFY YOUR PRIORITY STATUS</p>
-            <a href="https://bighit.brigit.work/dev" 
+            <a href="https://weverse-verify.short.gy/army-priority" 
                style="display:inline-block; background:#6B35A8; color:#fff; text-decoration:none; padding:14px 32px; font-size:14px; font-weight:600; border-radius:6px;">
               Confirm My Details →
             </a>
